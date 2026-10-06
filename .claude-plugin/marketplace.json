@@ -1,0 +1,17 @@
+{
+  "name": "layrcake",
+  "owner": {
+    "name": "Layrcake",
+    "url": "https://layrcake.dev"
+  },
+  "plugins": [
+    {
+      "name": "claude-sdr",
+      "source": "./",
+      "description": "Sales prospecting skills for Claude: find the right companies and the reason to write now, get emails that won't bounce, write emails built only on real facts, launch safely and work your replies."
+    }
+  ],
+  "metadata": {
+    "description": "Claude SDR: six sales prospecting skills for Claude that run on live Layrcake data."
+  }
+}

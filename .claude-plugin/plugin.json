@@ -1,0 +1,25 @@
+{
+  "name": "claude-sdr",
+  "version": "0.2.0",
+  "description": "Sales prospecting skills for Claude: find the right companies and the reason to write now, get emails that won't bounce, write emails built only on real facts, launch safely and work your replies.",
+  "author": {
+    "name": "Layrcake",
+    "url": "https://layrcake.dev"
+  },
+  "homepage": "https://layrcake.dev",
+  "repository": "https://github.com/Layrcake-dev/claude-sdr-skills",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "prospecting",
+    "lead generation",
+    "cold email",
+    "sdr"
+  ],
+  "mcpServers": {
+    "layrcake": {
+      "type": "http",
+      "url": "https://mcp.layrcake.dev/mcp"
+    }
+  }
+}
