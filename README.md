@@ -38,6 +38,8 @@ No Layrcake account yet? Sign up free at [layrcake.dev/connect](https://layrcake
 
 Start from your website → The no-bounce list → Receipts-only emails → Launch safely → Reply desk, with Signal prospector whenever you want a reason to write now. Each skill offers the next one when it's done.
 
+Need one specific job instead (a call brief, a fit check on an account list, champions who changed jobs, inbound triage)? See [Layrcake plays](https://github.com/Layrcake-dev/plays): single-purpose skills you install one at a time.
+
 ## License
 
 MIT
