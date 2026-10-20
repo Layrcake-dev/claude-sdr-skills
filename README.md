@@ -23,7 +23,7 @@ Each skill says what a step will cost before running it, and anything that sends
 
 ```
 /plugin marketplace add Layrcake-dev/claude-sdr-skills
-/plugin install claude-sdr@layrcake
+/plugin install layrcake-sdr@layrcake
 ```
 
 Then run `/reload-plugins`, open `/mcp`, choose Layrcake and sign in.
